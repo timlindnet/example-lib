@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "yarn nx storybook react",
-    "build": "yarn nx build-storybook react",
+    "build": "yarn nx build react",
+    "build:storybook": "yarn nx build-storybook react",
     "tailwind": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
   "private": true,
