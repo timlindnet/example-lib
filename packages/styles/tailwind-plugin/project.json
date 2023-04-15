@@ -1,4 +1,0 @@
-{
-  "name": "styles/tailwind-plugin",
-  "$schema": "../../../node_modules/nx/schemas/project-schema.json"
-}
