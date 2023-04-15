@@ -1,0 +1,8 @@
+{
+  "name": "@lit-lib-styles/tailwind-plugin",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}

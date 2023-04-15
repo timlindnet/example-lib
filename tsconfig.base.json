@@ -1,0 +1,13 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "plugins/tailwind": ["packages/plugins/tailwind/src/index.ts"],
+      "react": ["packages/react/src/index.ts"]
+    }
+  }
+}
